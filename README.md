@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **rizalkalam78@gmail.com**
 
+<audio controls autoplay><source src="SHOOT!.mp3" / type="audio/mp3"> Your browser does not support the audio element.</audio>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rizalkalam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizalkalam_" height="30" width="40" /></a>
