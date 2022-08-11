@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizal Kalam</h1>
 <h3 align="center">I am a student</h3>
-<img align="right" alt="Coding" width="400" src="https://media.hitekno.com/thumbs/2020/11/07/10944-drama-korea-start-up-twitteratk-dramaindo/730x480-img-10944-drama-korea-start-up-twitteratk-dramaindo.jpg">
 <p align="right">imagining to be :</p>
+<img align="right" alt="Coding" width="400" src="https://media.hitekno.com/thumbs/2020/11/07/10944-drama-korea-start-up-twitteratk-dramaindo/730x480-img-10944-drama-korea-start-up-twitteratk-dramaindo.jpg">
 
 
 - 🌱 I’m currently learning **Node.js**
