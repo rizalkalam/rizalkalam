@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, PHP**
 
 - 📫 How to reach me **rizalkalam78@gmail.com**
 
